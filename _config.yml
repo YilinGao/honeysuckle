@@ -1,11 +1,13 @@
 # Header
 menu:
-  首页: /
-  生活: /categories/life
-  归档: /archives
+  Home: /
+  #Life: /categories/life
+  Archive: /archives
+  Projects: /projects
+  About: /about
 
 # Content
-excerpt_link: ......
+excerpt_link: Read more
 fancybox: false
 
 # Sidebar
